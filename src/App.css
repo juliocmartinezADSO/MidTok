@@ -1,0 +1,14 @@
+.App {
+  background: #000;
+  height: 100vh;
+  place-content: center;
+}
+
+main {
+  border: 1px solid #fff;
+  aspect-ratio: 9/16;
+  border-radius: 3px;
+  overflow: scroll;
+  max-width: 360px;
+  width: 100vh;
+}
